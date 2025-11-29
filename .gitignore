@@ -1,0 +1,4 @@
+# Build artifacts
+/engine/target/
+/scripts/zig-script/libscript.so
+/scripts/zig-script/*.o

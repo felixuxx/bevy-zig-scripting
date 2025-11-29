@@ -1,0 +1,8 @@
+[package]
+name = "bevy_zig_scripting_engine_proto"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libloading = "0.8"
+notify = { version = "8", optional = true }
